@@ -195,7 +195,7 @@ Para executar o projeto é necessário ter instalado:
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Fernandox14/Order.API.git
 ```
 
 Entre na pasta do projeto:
