@@ -201,7 +201,7 @@ git clone https://github.com/Fernandox14/Order.API.git
 Entre na pasta do projeto:
 
 ```bash
-cd Order
+cd Order.API
 ```
 
 Restaure as dependências:
