@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Order.API/Order.API.csproj" />
+  <Project Path="Order.Aplicacao/Order.Aplicacao.csproj" />
+  <Project Path="Order.Dominio/Order.Dominio.csproj" />
+  <Project Path="Order.InfraEstrutura/Order.InfraEstrutura.csproj" />
+  <Project Path="Order.Ioc/Order.Ioc.csproj" />
+  <Project Path="Order.Tests/Order.Tests.csproj" Id="d1c72313-446a-4521-a4fc-ea80d3c2d7d0" />
+</Solution>
